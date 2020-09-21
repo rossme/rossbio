@@ -1,0 +1,19 @@
+/* JUMBO BANNER CSS STYLES, SEE JUMBOTRON.JS */
+
+.inner-footer {
+    padding: 6em;
+    color: white;
+    align-items: center;
+    background-color: hotpink;
+}
+
+.inner-footer h3 {
+    font-family: 'Abril Fatface';
+    padding: 10px;
+}
+
+.social {
+    align-items: center;
+    color: white;
+    background-color: hotpink;
+}

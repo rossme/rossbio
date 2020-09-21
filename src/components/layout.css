@@ -1,0 +1,12 @@
+/* BODY CSS STYLES, SEE LAYOUT.JS */
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lato:wght@300;400;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+
+div {
+    background: white;
+    color: rgb(34, 34, 34);
+  }
+
+body {
+  font-family: 'Abril Fatface', cursive;
+  font-family: 'Lato', sans-serif;
+}

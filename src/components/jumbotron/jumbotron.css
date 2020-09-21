@@ -1,0 +1,11 @@
+/* JUMBO BANNER CSS STYLES, SEE JUMBOTRON.JS */
+
+.inner-jumbo {
+    padding: 6em;
+    color: grey;
+    background-color: white;
+}
+
+.inner-jumbo h3 {
+    font-family: 'Abril Fatface';
+}
