@@ -20,12 +20,6 @@ export default () =>
     <Nav />
     <Jumbo />
     <Container>
-      <Row className="my-4">
-        <Col sm={8}>
-        </Col>
-        <Col sm={4}>
-        </Col>
-      </Row>
       <Cards />
     </Container>
     <Footer />
