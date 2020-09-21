@@ -6,8 +6,8 @@ import "./jumbotron.css"
 const Jumbo = () => (
     <Jumbotron fluid>
         <Container className="inner-jumbo">
-            <h3 class="text-center">Built w/ React & Gatsby</h3>
-            <p class="text-center font-weight-light">
+            <h3 className="text-center">Built w/ React & Gatsby</h3>
+            <p className="text-center font-weight-light">
             This is a modified jumbotron that occupies the entire horizontal space of
             its parent.
             </p>
