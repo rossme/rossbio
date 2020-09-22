@@ -1,7 +1,7 @@
 import React from "react"
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-import { Col, Container, Row } from "react-bootstrap"
+import { Container } from "react-bootstrap"
 
 import Nav from '../components/nav/nav'
 import Cards from '../components/cards/card'
