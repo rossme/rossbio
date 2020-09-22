@@ -6,7 +6,7 @@ const Nav = () => (
     <div className="nav-alt">
         <Navbar>
             <Navbar.Brand href="/">
-                <h3>Ross Buddie</h3>
+                <h3>RB</h3>
             </Navbar.Brand>
         </Navbar>
     </div>
