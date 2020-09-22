@@ -1,4 +1,5 @@
 import React from "react"
+import { Helmet } from "react-helmet"
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 import { Container } from "react-bootstrap"
@@ -16,6 +17,11 @@ library.add(fab, faGithub)
 
 export default () =>
 <Layout>
+  <Helmet>
+    <meta charSet="utf-8" />
+    <title>Ross Buddie</title>
+    <link rel="canonical" href="http://rossb.io/" />
+ </Helmet>
   <div>
     <Nav />
     <Jumbo />

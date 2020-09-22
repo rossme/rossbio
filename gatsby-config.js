@@ -27,6 +27,6 @@ module.exports = {
     },
     `gatsby-plugin-offline`,
     `gatsby-plugin-fontawesome-css`,
-    `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-react-helmet`
   ]
 }
