@@ -17,7 +17,7 @@ module.exports = {
         name: `Ross Buddie`,
         short_name: `Ross Buddie`,
         start_url: `/`,
-        background_color: `#6b37bf`,
+        background_image: URL`https://img.favpng.com/2/11/5/color-geometry-triangle-pattern-png-favpng-t7TkucugG7c4TMHeCiC1E9528.jpg`,
         theme_color: `#6b37bf`,
         // Enables "Add to Homescreen" prompt and disables browser UI (including back button)
         // see https://developers.google.com/web/fundamentals/web-app-manifest/#display
