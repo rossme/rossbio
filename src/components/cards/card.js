@@ -18,7 +18,7 @@ const Cards = () => (
         </Col>
         <Col sm={6}>
             <Card style={{ border: 'none' }}>
-                <Card.Img variant="top" src="https://res.cloudinary.com/djnfnwxgu/image/upload/v1600809986/rossb/ross_if9cte.png" alt="Ross Buddie" style={{ opacity: '1' }} />
+                <Card.Img variant="top" src="https://res.cloudinary.com/djnfnwxgu/image/upload/v1600809986/rossb/ross_if9cte.png" alt="Ross Buddie" style={{ opacity: '0.9' }} />
                 <Card.Body>
                     <Card.Title>Page Transitions</Card.Title>
                     <Card.Text>
