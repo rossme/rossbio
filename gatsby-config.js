@@ -8,14 +8,14 @@ module.exports = {
     siteMetadata: {
     title: `Ross Buddie`,
     description: `A simple landing page for me...`,
-    author: `gatsbyjs`,
+    author: `Ross Buddie`,
   },
   plugins: [
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `GatsbyJS`,
-        short_name: `GatsbyJS`,
+        name: `Ross Buddie`,
+        short_name: `Ross Buddie`,
         start_url: `/`,
         background_color: `#6b37bf`,
         theme_color: `#6b37bf`,
