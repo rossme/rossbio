@@ -1,8 +1,9 @@
 /* NAV CSS STYLES, SEE NAV.JS */
 
 .nav-alt {
+  padding-top: 4px;
   text-transform: none;
-  font-size: 1.1rem;
+  font-size: 1rem;
   background: white;
   box-shadow: 0 2px 2px -2px rgba(0,0,0,.2);
   position: fixed;
