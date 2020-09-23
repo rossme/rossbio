@@ -3,14 +3,21 @@ import Jumbotron from 'react-bootstrap/Jumbotron';
 import { Container } from "react-bootstrap"
 import "./jumbotron.css"
 
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+
 const Jumbo = () => (
     <Jumbotron fluid>
         <Container className="inner-jumbo">
-            <h3 className="text-center">Built w/ React & Gatsby</h3>
-            <p className="text-center font-weight-light">
+            <h3 className="text-center py-2">Built w/ React & Gatsby</h3>
+            <p className="text-center font-weight-light py-2">
             This is a modified jumbotron that occupies the entire horizontal space of
             its parent.
             </p>
+            <div className="text-center">
+                <FontAwesomeIcon icon={["fab", "linkedin"]} size="2x" className="mx-2" />
+                <FontAwesomeIcon icon={["fab", "github"]} size="2x" className="mx-2" />                
+            </div>
+
         </Container>
     </Jumbotron>
 );

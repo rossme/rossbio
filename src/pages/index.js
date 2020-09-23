@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 import { Container } from "react-bootstrap"
 
-import Nav from '../components/nav/nav'
+import NavElement from '../components/nav/nav'
 import Cards from '../components/cards/card'
 import Layout from "../components/layout"
 import Jumbo from "../components/jumbotron/jumbotron"
@@ -23,7 +23,7 @@ export default () =>
     <link rel="canonical" href="http://rossb.io/" />
  </Helmet>
   <div>
-    <Nav />
+    <NavElement />
     <Jumbo />
     <Container>
       <Cards />
