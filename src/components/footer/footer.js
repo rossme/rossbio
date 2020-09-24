@@ -7,7 +7,7 @@ import "./footer.css"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 const Footer = () => (
-    <Jumbotron fluid style={{ backgroundColor: 'hotpink' }}>
+    <Jumbotron fluid style={{ backgroundColor: 'hotpink'}}>
         <Container style={{ padding: '0' }}>
             <div className="inner-footer" >
                 <h3 className="text-center">Footer </h3>

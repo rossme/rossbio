@@ -10,9 +10,11 @@ const Cards = () => (
                 <Card.Body>
                     <Card.Title>Developers love Cards</Card.Title>
                     <Card.Text>
-                    They are everywhere.
+                        Pellentesque elit eget gravida cum sociis natoque. Dignissim suspendisse in est ante in nibh mauris.
                     </Card.Text>
-                    <Card.Link href="#">Card Link</Card.Link>
+                    <div className="card-style">
+                        <Card.Link href="#">A Link To Somewhere</Card.Link>
+                    </div>
                 </Card.Body>
             </Card>
         </Col>
@@ -22,9 +24,11 @@ const Cards = () => (
                 <Card.Body>
                     <Card.Title>Page Transitions</Card.Title>
                     <Card.Text>
-                    Component-based for easy usage.
+                        Purus sit amet luctus venenatis lectus. Integer malesuada nunc vel risus commodo viverra.
                     </Card.Text>
-                    <Card.Link href="#">Card Link</Card.Link>
+                    <div className="card-style">
+                        <Card.Link href="#">Another Card Link</Card.Link>
+                    </div>
                 </Card.Body>
             </Card>
         </Col>
