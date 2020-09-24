@@ -13,9 +13,9 @@ const Jumbo = () => (
             This is a modified jumbotron that occupies the entire horizontal space of
             its parent.
             </p>
-            <div className="text-center">
-                <FontAwesomeIcon icon={["fab", "github-square"]} size="2x" className="mx-1" />
-                <FontAwesomeIcon icon={["fab", "linkedin"]} size="2x" className="mx-1" />                
+            <div className="text-center" id="social-jumbo">
+                <a href="https://www.github.com/rossme" target="_blank" rel="noopener norefferer"><FontAwesomeIcon icon={["fab", "github-square"]} size="2x" className="mx-1"/></a>
+                <a href="https://www.linkedin.com/in/rossbuddie/" target="_blank" rel="noopener norefferer"><FontAwesomeIcon icon={["fab", "linkedin"]} size="2x" className="mx-1"/></a>
             </div>
 
         </Container>

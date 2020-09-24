@@ -10,3 +10,27 @@
 .inner-jumbo h3 {
     font-family: 'Abril Fatface';
 }
+
+#social-jumbo {
+    color: white;
+    background-color: white;
+    text-decoration: none;
+}
+
+#social-jumbo a {
+    color: black;
+    background-color: inherit;
+    text-decoration: none;
+}
+
+#social-jumbo a:visited {
+    color: black;
+    background-color: inherit;
+    text-decoration: none;
+}
+
+#social-jumbo a:hover {
+    color: hotpink;
+    background-color: inherit;
+    text-decoration: none;
+}
