@@ -7,8 +7,8 @@ const NavElement = () => (
         <Navbar className="justify-content-center">
             <img
                 src="https://res.cloudinary.com/djnfnwxgu/image/upload/v1600899550/rossb/logo_wtyfbb.jpg"
-                width="64"
-                height="64"
+                width="50px"
+                height="50px"
                 className="d-inline-block align-center"
                 alt="Ross Buddie"
             />
