@@ -20,7 +20,7 @@ export default () =>
   <Helmet>
     <meta charSet="utf-8" />
     <title>Ross Buddie</title>
-    <link rel="canonical" href="http://rossb.io/" />
+    <link rel="canonical" href="https://rossb.io/" />
  </Helmet>
   <div>
     <NavElement />

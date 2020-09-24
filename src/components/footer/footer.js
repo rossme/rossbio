@@ -11,9 +11,10 @@ const Footer = () => (
         <Container style={{ padding: '0' }}>
             <div className="inner-footer" >
                 <h3 className="text-center">Footer </h3>
-                <p className="text-center">Made with a Bootstrap Jumbotron</p>
+                <p className="text-center">This is a modified Jumbotron</p>
                 <p className="text-center">
-                    <FontAwesomeIcon icon={["fab", "github"]} size="2x" />
+                    <FontAwesomeIcon icon={["fab", "github-square"]} size="2x" className="mx-1"/>
+                    <FontAwesomeIcon icon={["fab", "linkedin"]} size="2x" className="mx-1"/>
                 </p>
             </div>
         </Container>

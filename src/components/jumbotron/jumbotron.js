@@ -14,8 +14,8 @@ const Jumbo = () => (
             its parent.
             </p>
             <div className="text-center">
-                <FontAwesomeIcon icon={["fab", "linkedin"]} size="2x" className="mx-2" />
-                <FontAwesomeIcon icon={["fab", "github"]} size="2x" className="mx-2" />                
+                <FontAwesomeIcon icon={["fab", "github-square"]} size="2x" className="mx-1" />
+                <FontAwesomeIcon icon={["fab", "linkedin"]} size="2x" className="mx-1" />                
             </div>
 
         </Container>
