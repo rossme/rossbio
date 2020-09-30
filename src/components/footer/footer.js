@@ -13,8 +13,8 @@ const Footer = () => (
                 <h3 className="text-center">Footer </h3>
                 <p className="text-center">This is a modified Jumbotron</p>
                 <div className="text-center" id="social-footer">
-                    <a href="https://www.github.com/rossme" target="_blank" rel="noopener norefferer"><FontAwesomeIcon icon={["fab", "github-square"]} size="2x" className="mx-1"/></a>
-                    <a href="https://www.linkedin.com/in/rossbuddie/" target="_blank" rel="noopener norefferer"><FontAwesomeIcon icon={["fab", "linkedin"]} size="2x" className="mx-1"/></a>
+                    <a href="#cards" target="_blank" rel="norefferer"><FontAwesomeIcon icon={["fab", "github-square"]} size="2x" className="mx-1"/></a>
+                    <a href="https://www.linkedin.com/in/rossbuddie/" target="_blank" rel="norefferer"><FontAwesomeIcon icon={["fab", "linkedin"]} size="2x" className="mx-1"/></a>
                 </div>
             </div>
         </Container>
