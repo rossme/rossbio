@@ -21,7 +21,7 @@ export default () =>
     <meta charSet="utf-8" />
     <title>Ross Buddie</title>
     <link rel="canonical" href="https://rossb.io/" />
- </Helmet>
+  </Helmet>
   <div>
     <NavElement />
     <Jumbo />
