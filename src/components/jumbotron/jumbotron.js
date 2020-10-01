@@ -6,7 +6,7 @@ import "./jumbotron.css"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 const Jumbo = () => (
-    <Jumbotron>
+    <Jumbotron className="jumbotron">
         <Container className="inner-jumbo">
             <h3 className="text-center py-2">Built w/ Gatsby.</h3>
             <p className="text-center font-weight-light py-2">

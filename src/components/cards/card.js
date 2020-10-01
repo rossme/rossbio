@@ -3,8 +3,8 @@ import { Row, Col, Card } from "react-bootstrap"
 import "./card.css"
 
 const Cards = () => (
-    <Row className="mb-4">
-        <Col sm={6}>
+    <Row className="card-container">
+        <Col sm={6} className="my-4">
             <Card style={{ border: 'none' }}>
                 <Card.Img variant="top" src="https://img.favpng.com/2/11/5/color-geometry-triangle-pattern-png-favpng-t7TkucugG7c4TMHeCiC1E9528.jpg" alt="triangle pattern" style={{ opacity: '0.9' }} />
                 <Card.Body>
@@ -18,7 +18,7 @@ const Cards = () => (
                 </Card.Body>
             </Card>
         </Col>
-        <Col sm={6}>
+        <Col sm={6} className="my-4">
             <Card style={{ border: 'none' }}>
                 <Card.Img variant="top" src="https://res.cloudinary.com/djnfnwxgu/image/upload/v1600809986/rossb/ross_if9cte.png" alt="Ross Buddie" style={{ opacity: '0.9' }} />
                 <Card.Body>
