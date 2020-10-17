@@ -1,5 +1,10 @@
 /* JUMBO BANNER CSS STYLES, SEE JUMBOTRON.JS */
 
+.jumbo-footer {
+    margin-bottom: 0px;
+    background-color: hotpink;
+}
+
 .inner-footer {
     padding: 6em;
     color: white;
